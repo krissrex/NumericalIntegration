@@ -4,7 +4,7 @@ import com.polarbirds.numericalintegration.interfaces.DerivativeFunction;
 import com.polarbirds.numericalintegration.interfaces.NumericalIntegrationAlgorithm;
 
 /**
- * Created by kristian on 17.11.14.
+ * Provides euler integration.
  */
 public class Euler implements NumericalIntegrationAlgorithm {
 
